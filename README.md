@@ -1,6 +1,8 @@
-# blank
+# Quantum Leap - a PayloadCMS theme
 
-blank
+This is a demo theme for PayloadCMS based on this excellent mockup on the Payload website.
+
+## Screenshots & Preview
 
 ## Attributes
 
