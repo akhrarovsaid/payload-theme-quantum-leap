@@ -19,6 +19,7 @@ The bulk of the theming is done in the `theme` folder where you have the `.scss`
 #### Some notes
 - Light mode is not supported right now, this is meant to be just a simple demo of how easy it can be to customize virtually anything in the admin ui.
 - The List/Edit views weren't the focus of this demo theme and may come at a later time.
+- This is a simple demo that includes a theme for the admin ui only. There is not frontend application attached to this theme.
 
 ## Attributes
 
